@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **salvadormenjivar/salvadormenjivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bienvenido a mi repositorio personal de GitHub!
+# 😄 Bienvenido a mi repositorio personal de GitHub!
 
 ¡Hola! Soy Salvador Peña, y este es mi repositorio personal en GitHub.  
 Aquí encontrarás una colección de proyectos, experimentos y código que he desarrollado a lo largo de mi carrera como desarrollador. 
 Este repositorio refleja mi pasión por la programación y mi compromiso con el aprendizaje continuo.
 
-## Sobre mí
+## ⚡ Sobre mí
 
 Soy un apasionado desarrollador de software con experiencia en diversos lenguajes de programación y tecnologías. 
 Me encanta resolver problemas complejos y crear soluciones innovadoras que sean efectivas y eficientes. 
 Mi enfoque principal se encuentra en el desarrollo web, utilizando tecnologías backend como Java Server Faces, Spring, Flask, Django.  
 Y por el lado del frontend Angular, TypeScript, Javascript, HTML5, CSS3, Bootstrap, Primefaces.
 
-## Proyectos Destacados
+## 🌱 Proyectos Destacados
 
 Aquí hay una muestra de algunos de los proyectos destacados en este repositorio:
 
@@ -38,7 +36,7 @@ Aquí hay una muestra de algunos de los proyectos destacados en este repositorio
 
 Estos son solo algunos ejemplos, pero hay mucho más en este repositorio que te invito a explorar.
 
-## Contacto
+## 📫 Contacto
 
 Si deseas comunicarte conmigo, puedes hacerlo a través de los siguientes medios:
 
@@ -46,6 +44,6 @@ Si deseas comunicarte conmigo, puedes hacerlo a través de los siguientes medios
 - LinkedIn: [Salvador Peña](https://www.linkedin.com/in/salvadormenjivar/)
 
 
-## Agradecimientos
+## 🔭 Agradecimientos
 
 ¡Gracias por visitar mi repositorio personal! Espero que encuentres algo interesante aquí y que te sea útil en tu propio viaje como desarrollador. No dudes en explorar, aprender y disfrutar de todo el código que he compartido. ¡Que tengas un excelente día!
