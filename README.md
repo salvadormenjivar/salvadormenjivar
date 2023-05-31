@@ -32,7 +32,7 @@ Aquí hay una muestra de algunos de los proyectos destacados en este repositorio
 
 1. **api_giphy**: En este proyecto me conecto al api de giphy para la búsqueda para la búsqueda de imágenes gifs desde mi aplicación.
 
-2. **spring-boot-form **: En este proyecto he utilizado spring boot para practicar las validaciones en entidades, uso de controladores, servicios. Utilicé thymeleaf y bootstrap para el frontend. Es un proyecto en el que se muestra un formulario con diferentes controles.
+2. **spring-boot-form**: En este proyecto he utilizado spring boot para practicar las validaciones en entidades, uso de controladores, servicios. Utilicé thymeleaf y bootstrap para el frontend. Es un proyecto en el que se muestra un formulario con diferentes controles.
 
 Estos son solo algunos ejemplos, pero hay mucho más en este repositorio que te invito a explorar.
 
